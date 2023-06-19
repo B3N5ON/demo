@@ -1,0 +1,8 @@
+﻿  opencv1.cpp
+J:\opencv\opencv\build\include\opencv2\core.hpp(1747,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+J:\opencv\opencv\build\include\opencv2\core.hpp(1747,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+J:\opencv\opencv\build\include\opencv2\core.hpp(1747,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\benso\source\repos\opencv1\opencv1.cpp(57,40): warning C4474: 'printf': 傳遞給格式字串的引數太多
+C:\Users\benso\source\repos\opencv1\opencv1.cpp(57,40): message : 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+C:\Users\benso\source\repos\opencv1\opencv1.cpp(60,21): warning C4244: '正在初始化': 將 'double' 轉換為 'long'，由於類型不同，可能導致資料遺失
+  opencv1.vcxproj -> C:\Users\benso\source\repos\opencv1\x64\Debug\opencv1.exe
